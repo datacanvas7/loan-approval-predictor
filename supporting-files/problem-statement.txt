@@ -1,0 +1,6 @@
+🔹 4. Credit Risk Scoring (Loan Approval Prediction)
+📘 Introduction & Problem Statement:
+In financial institutions, lending to unqualified applicants increases the risk of default and non-performing assets (NPAs). Traditional rule-based systems can be inefficient in identifying high-risk applicants.
+
+🎯 Business Objective:
+To develop a credit risk model that predicts loan approval outcomes based on applicant profiles, improving lending decisions and minimizing risk exposure.
